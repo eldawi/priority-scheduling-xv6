@@ -1,4 +1,5 @@
-xv6 Priority-Based Process Scheduler
+<h1> xv6 Priority-Based Process Scheduler </h1>
+
 This project involved modifying the xv6 operating system kernel to implement a priority-based process scheduling algorithm. The goal was to replace xv6's default round-robin scheduler with one that prioritizes processes based on a numerical priority value, allowing higher-priority tasks to receive preferential CPU access.
 
 Project Objective
